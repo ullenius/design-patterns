@@ -1,4 +1,4 @@
-# Java_Design_Patterns
+# java-design-patterns
 Implementations of all the Gang Of Four design patterns with the SOLID principles and some miscellaneous patterns/techniques.<br>
 Mostly a tool for my usage, but feel free to use it!
 ## Creational 
